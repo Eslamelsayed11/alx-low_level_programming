@@ -1,11 +1,9 @@
 #include "main.h"
 
-
-	/**
-	 * print_alphabet - print all alphabet in lowercase
-	 */
-
-
+/**
+* print_alphabet - print all alphabet in lowercase
+*is written by eslam
+*/
 	void print_alphabet(void)
 	{
 		char letter;
